@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Hugging Face / model caches (these get downloaded on first run, don't commit them)
+.cache/
+*.bin
+*.safetensors
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated output (optional — remove this line if you WANT results.csv tracked in git)
+outputs/*.csv
+
+# IDE
+.vscode/
+.idea/

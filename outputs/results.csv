@@ -1,0 +1,2 @@
+filename,category,confidence,num_chunks,char_count,backend_used,error
+Analyst BM.pdf,Job-related,0.4622,10,4528,pdfplumber,
